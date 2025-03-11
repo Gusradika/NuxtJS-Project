@@ -1,4 +1,3 @@
-<!-- Sudah diganti oleh index.md -->
 <template class="">
     <div class="container mx-auto max-w-2xl">
         <section>
